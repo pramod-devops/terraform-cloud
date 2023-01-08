@@ -1,5 +1,5 @@
 variable "region" {
-  default = "us-east-2"
+  default = "ap-south-1"
 }
 
 variable "ec2_count" {
